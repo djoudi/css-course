@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 800px;
+    height: 800px;
+    margin: 60px auto;
+    background-color: aqua;
+    background-image: url('../images/001.jpg') ;
+    background-repeat: no-repeat;
+    /* background-size:  cover; */
+    background-position: 15px 50px;
+}
